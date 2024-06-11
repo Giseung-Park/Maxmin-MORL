@@ -28,3 +28,6 @@ python maxmin_algorithms.py -se 0 (random seed)
 
 - We used a hardware of Intel Core i9-10900X CPU @ 3.70GHz.
 - We used five random seeds: 0-4.
+
+**Contact**
+If you have any question or discussion, feel free to send an e-mail to gs.park@kaist.ac.kr.

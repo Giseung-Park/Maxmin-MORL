@@ -24,7 +24,7 @@ You may also refer to https://github.com/LucasAlegre/sumo-rl for SUMO installati
 
 **Run**
 
-python maxmin_algorithms.py -se 0 (random seed)
+python maxmin_algorithms.py -se 0
 
 - We used a hardware of Intel Core i9-10900X CPU @ 3.70GHz.
 - We used five random seeds: 0-4.

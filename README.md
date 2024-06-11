@@ -1,6 +1,9 @@
 # Maxmin-MORL
 Implementation for the ICML 2024 paper: "The Max-Min Formulation of Multi-Objective Reinforcement Learning: From Theory to a Model-Free Algorithm"
 
+**Openreview Paper Link**
+
+https://openreview.net/forum?id=cY9g0bwiZx
 
 **Installation** 
 1. conda env create -f maxmin_mo_env.yaml

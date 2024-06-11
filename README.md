@@ -11,6 +11,7 @@ Implementation for the ICML 2024 paper: "The Max-Min Formulation of Multi-Object
 6. echo 'export SUMO_HOME="/usr/share/sumo"' >> ~/.bashrc
 7. source ~/.bashrc
 
+The same description is written in Installation.txt.
 You may also refer to https://github.com/LucasAlegre/sumo-rl for SUMO installation.
 
 **Note**

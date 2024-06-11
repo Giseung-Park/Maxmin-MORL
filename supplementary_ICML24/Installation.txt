@@ -1,0 +1,25 @@
+<Installation>
+
+1. conda env create -f maxmin_mo_env.yaml
+
+conda activate maxmin_mo_env
+
+2. Install SUMO
+
+sudo add-apt-repository ppa:sumo/stable
+sudo apt-get update
+sudo apt-get install sumo sumo-tools sumo-doc
+
+echo 'export SUMO_HOME="/usr/share/sumo"' >> ~/.bashrc
+source ~/.bashrc
+
+
+You can report the return values after installing wandb.
+We used a hardware of Intel Core i9-10900X CPU @ 3.70GHz.
+
+3. Run
+
+python maxmin_algorithms.py -se 0 (random seed)
+
+5 seeds: 0,1,2,3,4
+

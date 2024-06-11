@@ -18,7 +18,8 @@ The same description is written in Installation.txt.
 You may also refer to https://github.com/LucasAlegre/sumo-rl for SUMO installation.
 
 **Note**
-- You can report the return values after installing wandb.
+- You can report the return values after installing wandb. (We used wandb==0.15.12 version.)
+  If you do not want to use wandb, you may check maxmin_algorithms.py and common/off_policy_algorithm.py.
 - If installation fails, you can first install torch, remove conda maxmin_mo_env, and then reinstall it.
 
 

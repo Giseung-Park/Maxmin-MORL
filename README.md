@@ -30,5 +30,17 @@ python maxmin_algorithms.py -se 0
 - We used a hardware of Intel Core i9-10900X CPU @ 3.70GHz.
 - We used five random seeds: 0-4.
 
+**Citation**
+
+@inproceedings{
+park2024the,
+title={The Max-Min Formulation of Multi-Objective Reinforcement Learning: From Theory to a Model-Free Algorithm},
+author={Giseung Park and Woohyeon Byeon and Seongmin Kim and Elad Havakuk and Amir Leshem and Youngchul Sung},
+booktitle={Forty-first International Conference on Machine Learning},
+year={2024},
+url={https://openreview.net/forum?id=cY9g0bwiZx}
+}
+
 **Contact**
+
 If you have any question or discussion, feel free to send an e-mail to gs.park@kaist.ac.kr.

@@ -37,8 +37,7 @@ park2024the,
 title={The Max-Min Formulation of Multi-Objective Reinforcement Learning: From Theory to a Model-Free Algorithm},
 author={Giseung Park and Woohyeon Byeon and Seongmin Kim and Elad Havakuk and Amir Leshem and Youngchul Sung},
 booktitle={Forty-first International Conference on Machine Learning},
-year={2024},
-url={https://openreview.net/forum?id=cY9g0bwiZx}
+year={2024}
 }
 
 **Contact**

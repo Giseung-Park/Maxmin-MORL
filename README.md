@@ -5,6 +5,10 @@ Implementation for the ICML 2024 paper: "The Max-Min Formulation of Multi-Object
 
 https://openreview.net/forum?id=cY9g0bwiZx
 
+**ArXiv**
+
+https://arxiv.org/abs/2406.07826
+
 **Installation** 
 1. conda env create -f maxmin_mo_env.yaml
 2. conda activate maxmin_mo_env
